@@ -18,6 +18,7 @@ endfunction
 let s:languages = [
       \   { 'name': 'pug', 'pairs': ['<template lang="pug"', '</template>'] },
       \   { 'name': 'stylus', 'pairs': ['<style lang="stylus"', '</style>'] },
+      \   { 'name': 'styl', 'pairs': ['<style lang="styl"', '</style>'] },
       \   { 'name': 'css', 'pairs': ['<style', '</style>'] },
       \   { 'name': 'coffee', 'pairs': ['<script lang="coffee"', '</script>'] },
       \   { 'name': 'javascript', 'pairs': ['<script', '</script>'] },
